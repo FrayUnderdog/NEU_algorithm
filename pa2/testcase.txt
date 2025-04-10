@@ -1,0 +1,11 @@
+python3 pa2.py -target purple -wordbank purp p ur le purpl
+python3 pa2.py -target hello -wordbank cat dog mouse
+python3 pa2.py -target a -wordbank a b c
+python3 pa2.py -target aaaa -wordbank a aa
+python3 pa2.py -target apple -wordbank ap p le a p pple
+python3 pa2.py -target cat -wordbank ca t at c
+python3 pa2.py -target '' -wordbank a b c
+python3 pa2.py -target dog -wordbank do og
+python3 pa2.py -target hello -wordbank h e l o he ell o
+python3 pa2.py -target '' -wordbank ''
+python3 pa2.py -target -wordbank 
